@@ -1,0 +1,24 @@
+#N canvas 296 47 620 819 12;
+#X obj 4 6 cnv 15 600 800 empty empty empty 20 12 0 14 -128992 -66577
+0;
+#X obj 9 11 cnv 15 590 40 empty empty PLACE_NOTHING_HERE 20 12 0 14
+-261682 -66577 0;
+#X obj 27 94 bng 50 250 50 0 empty empty bouton1 0 -10 0 10 -262144
+-1 -1;
+#X obj 28 175 tgl 50 0 empty empty Toggle1 0 -10 0 10 -262144 -1 -1
+0 1;
+#X obj 148 92 hsl 250 40 0 127 0 0 empty empty hslider1 -2 -8 0 10
+-262144 -1 -1 0 1;
+#X obj 431 179 vsl 40 250 0 127 0 0 empty empty vslider1 0 -9 0 10
+-262144 -1 -1 0 1;
+#X obj 99 734 hradio 50 1 0 8 empty empty hradio1 0 -8 0 10 -262144
+-1 -1 0;
+#X obj 27 456 cnv 15 550 250 empty touch touch1 20 12 0 14 -262144
+-66577 0;
+#X obj 147 176 cnv 15 250 250 empty color color1 20 12 0 14 -4034 -66577
+0;
+#X obj 31 270 nbx 5 25 -1e+37 1e+37 0 0 empty empty number1 0 -8 0
+10 -262144 -1 -1 0 256;
+#X text 31 368 Short text;
+#X obj 508 179 vradio 50 1 0 5 empty empty vradio1 0 -8 0 10 -262144
+-1 -1 2;

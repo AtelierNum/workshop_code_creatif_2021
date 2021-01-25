@@ -1,0 +1,29 @@
+#N canvas 182 63 626 828 12;
+#X obj 13 14 cnv 15 600 800 empty empty empty 20 12 0 14 -128992 -66577
+0;
+#X obj 41 76 hsl 500 40 0 1 0 0 empty empty slider1 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 40 135 hsl 500 40 0 1 0 0 empty empty slider2 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 39 195 hsl 500 40 0 1 0 0 empty empty slider3 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 38 256 hsl 500 40 0 1 0 0 empty empty slider4 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 38 318 hsl 500 40 0 1 0 0 empty empty slider5 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 37 382 hsl 500 40 0 1 0 0 empty empty slider6 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 37 442 hsl 500 40 0 1 0 0 empty empty slider7 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 36 502 hsl 500 40 0 1 0 0 empty empty slider8 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 35 563 hsl 500 40 0 1 0 0 empty empty slider9 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 35 625 hsl 500 40 0 1 0 0 empty empty slider10 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 36 690 hsl 500 40 0 1 0 0 empty empty slider11 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 36 752 hsl 500 40 0 1 0 0 empty empty slider12 -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 17 19 cnv 15 590 40 empty empty PLACE_NOTHING_HERE 20 12 0 14
+-261682 -66577 0;
